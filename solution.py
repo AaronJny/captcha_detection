@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/11/14 16:27
+# @Time    : 2020/11/14
 # @Author  : AaronJny
 # @File    : solution.py
 # @Desc    : 点选式验证码解决方案
